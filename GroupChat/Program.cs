@@ -18,6 +18,7 @@
                 new("Mehroj", "7777", "Miraziz", "Kettu")
             };
 
+
             List<Receiver> receivers = new()
             {
                 new("Miraziz", "5459", "Javlon", "Hello"),
